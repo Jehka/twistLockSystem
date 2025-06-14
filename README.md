@@ -4,20 +4,6 @@ A secure lock system with challenge-response authentication using XOR encryption
 
 > 🧠 XOR Challenge-Response ensures the real password is never typed, making this system smarter than your average doorknob.
 
-![Initial Setup](assets/initial.jpg)
-![Access Granted](assets/grant.jpg)
-![Admin Challenge](assets/admin_challenge.jpg)
-![Admin Access](assets/admin_access.jpg)
-![Admin New Code](assets/admin_new_code.jpg)
-![Code Saved](assets/code_saved.jpg)
-![Final State](assets/final.jpg)
-
-## 📽️ Demo Video
-
-[▶️ Watch the demonstration](assets/demo_video.mp4)
-
----
-
 ## 📁 Folder Structure
 
 ```
