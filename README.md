@@ -8,7 +8,7 @@ A secure lock system with challenge-response authentication using XOR encryption
 
 ```
 arduino-lock-system/
-├── assets/
+├── media/
 │   ├── initial.jpg
 │   ├── grant.jpg
 │   ├── admin_challenge.jpg
